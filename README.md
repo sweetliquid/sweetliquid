@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://img.shields.io/badge/girlfriend-notfound-red)
+
+<!-- TODO: sync shield status automatically with codewars api -->
 [![](https://img.shields.io/badge/codewars-3%20kyu-red)](https://www.codewars.com/users/sweetliquid)
 
 <!--
