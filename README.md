@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!-- TODO: sync shield status automatically with codewars api -->
-![](https://img.shields.io/badge/girlfriend-notfound-red) [![](https://img.shields.io/badge/codewars-3%20kyu-red?style=social&logo=codewars)](https://www.codewars.com/users/sweetliquid)
+![](https://img.shields.io/badge/girlfriend-notfound-red) [![](https://www.codewars.com/users/sweetliquid/badges/small)](https://www.codewars.com/users/sweetliquid)
 
 <!--
 **sweetliquid/sweetliquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
