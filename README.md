@@ -1,4 +1,4 @@
-### Sweet Liquid's Workshop へようこそ！
+### Sweet Liquid's Chocolate Workshop へようこそ！
 
 ![](https://img.shields.io/badge/emotionally-unavailable-ff69b4) [![](https://www.codewars.com/users/sweetliquid/badges/micro)](https://www.codewars.com/users/sweetliquid)
 
