@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on TypeScript
 - 🌱 I’m currently learning Haskell & Rust
+- 😄 Let's make React great again 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
